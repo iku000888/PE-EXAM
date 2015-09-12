@@ -1,0 +1,20 @@
+Problems from H26
+=======================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   H26-Fundamentals 
+   H26-Ethics
+   H26-Info-Eng
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
