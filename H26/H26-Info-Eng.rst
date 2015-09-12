@@ -7,6 +7,7 @@ Contents:
    :maxdepth: 2
 
    Info-Eng-01
+   Info-Eng-02
 
 Indices and tables
 ==================
